@@ -1,0 +1,16 @@
+AXL Basics:
+https://developer.cisco.com/docs/axl/#!introduction/explore-the-axl-apis
+
+Sandbox Used:
+https://developer.cisco.com/docs/sandbox/#!collaboration/collaboration-sandbox-highlights
+
+Problem Set:
+Solution to pull used phone numbers from a CUCM cluster and provide the first available phone number.
+    1. Choose cluster
+    2. Offer Phone number
+    3. ?Assign number manually, or wait for phone to do this itself? Not sure how CUCM works
+
+
+
+
+
